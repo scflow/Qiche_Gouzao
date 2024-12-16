@@ -14,7 +14,7 @@
 |    差速器    | 不打滑转向 |
 | 万向传动装置 | 变角度传动 |
 
-![image-20241216102608185](C:\Users\one\AppData\Roaming\Typora\typora-user-images\image-20241216102608185.png)
+![汽车传动系统](https://img1.xcarimg.com/aikahao/ef/2a/ef2a7ebe455f8316fdd943c3fc56c2b2.jpeg)
 
 #### 组成（机械传动系统为例）
 
